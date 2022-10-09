@@ -1,2 +1,2 @@
 # Linux-Setup
-Linux Setup Repo
+Personal Repository to automatically setup Linux
